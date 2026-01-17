@@ -13,7 +13,7 @@ public class treemapexample{
         // put
         stset.put(1012, "Heet");
         stset.put(1009, "Jay");
-        stset.put(1011, "Isha");
+        stset.put(1011, "Dev");
         stset.put(1012, "Heet");
         // System.out.println(stset);
 
@@ -92,4 +92,5 @@ public class treemapexample{
 
        
     }
+
 }
