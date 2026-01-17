@@ -28,7 +28,7 @@ public class hashmapexample{
         System.out.println("\nContains key(1009): "+ stset.containsKey(1009));
 
         // containsvalue
-        System.out.println("\nContains Values(isha): "+ stset.containsValue("Isha"));
+        System.out.println("\nContains Values(isha): "+ stset.containsValue("Dev"));
 
         // foreach
         System.out.println("\nforeach");
@@ -60,3 +60,4 @@ public class hashmapexample{
     }
 
 }
+
