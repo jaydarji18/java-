@@ -10,7 +10,7 @@ public class hashmapexample{
         // put
         stset.put(1012, "Heet");
         stset.put(1009, "Jay");
-        stset.put(1011, "Isha");
+        stset.put(1011, "Dev");
         stset.put(1012, "Heet");
         
         // putifabsent
@@ -58,4 +58,5 @@ public class hashmapexample{
         stset.clear(); 
         System.out.println("After Clearing: "+stset);   
     }
+
 }
