@@ -36,10 +36,10 @@ public class PQ7{
     public static void main(String[] args) throws InterruptedException {
         Account acc1 = new Account(5000);
 
-        Threadd th1 = new Threadd(acc1,"Jay",1000);
-        Threadd th2 = new Threadd(acc1,"jitendra",2000);
-        Threadd th3 = new Threadd(acc1,"chandrikaben", 1500);
-        Threadd th4 = new Threadd(acc1,"vinodbhai", 2000);
+        Threadd th1 = new Threadd(acc1,"User1",1000);
+        Threadd th2 = new Threadd(acc1,"User2",2000);
+        Threadd th3 = new Threadd(acc1,"User3", 1500);
+        Threadd th4 = new Threadd(acc1,"User4", 2000);
 
 
 
@@ -50,4 +50,5 @@ public class PQ7{
         th4.start();
 
     }
+
 }
